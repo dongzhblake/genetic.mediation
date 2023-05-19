@@ -1,3 +1,1 @@
-# genetic.mediation
-# genetic.mediation
-# genetic.mediation
+R package for genetic mediation analysis
